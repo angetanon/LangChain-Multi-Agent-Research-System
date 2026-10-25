@@ -17,3 +17,6 @@ lxml>=5.0.0
 
 # Environment variables
 python-dotenv>=1.0.0
+
+# Rich library for enhanced terminal output / logging and debugging
+rich>=13.7.0
